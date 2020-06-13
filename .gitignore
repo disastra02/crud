@@ -3,7 +3,10 @@
 /public/storage
 /public/fonts
 /public/admin
+/public/css/app.css
+/public/js/app.js
 /storage/*.key
+/public/mix-manifest.json
 /vendor
 .env
 .env.backup
